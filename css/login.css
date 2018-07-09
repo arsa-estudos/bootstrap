@@ -1,0 +1,5 @@
+body {
+    min-height: 100vh;
+    background-color: #CCC;
+    background-image: url('https://picsum.photos/g/1500/800?random');
+}
